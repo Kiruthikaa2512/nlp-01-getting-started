@@ -23,10 +23,10 @@ The goal is to copy this repository, set up your environment, run the example sc
 Then, you'll change the authorship to make the project yours and explore the structure.
 No major code changes are required.
 
-You'll work with just these files:
+You'll work with just these areas:
 
-- **notebooks/web_words.ipynb** - notebook version for exploration
-- **src/nlp/web_words.py** - introductory web text processing script
+- **notebooks/** - Jupyter notebooks for exploration
+- **src/nlp/** - Python code (verifies .venv/)
 - **pyproject.toml** - update authorship, links, and dependencies
 - **zensical.toml** - update authorship and links
 
